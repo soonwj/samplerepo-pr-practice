@@ -1,2 +1,5 @@
 # [Sample Repo] PR Practice
-A sample repo for practicing how to create Pull Requests. This is an important part of RCS.
+A sample repo for practicing how to create Pull Requests. 
+
+#Introduction
+This is an important part of RCS.
